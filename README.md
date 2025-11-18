@@ -2,7 +2,7 @@
 ### FIAP – Ciências da Computação
 ### Roberto Flaquer Moura - 567348
 ### Nicolas Nishimura Sakaue - 567752
-### André Brusso - 
+### André Brusso de Queiroz - 567365
 
 ---
 
