@@ -1,7 +1,8 @@
 # Global Solution – Soluções em Energias Sustentáveis e Renováveis  
 ### FIAP – Ciências da Computação
-### Roberto Flaquer Moura
-### Nicolas
+### Roberto Flaquer Moura - 567348
+### Nicolas Nishimura Sakaue - 567752
+### André Brusso - 
 
 ---
 
