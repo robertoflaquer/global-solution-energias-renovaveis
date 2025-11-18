@@ -6,7 +6,7 @@
 ---
 
 ## 1. Descrição do Projeto
-Este projeto analisa o consumo energético de um escritório utilizando Python e dados reais/simulados.  
+Este projeto analisa o consumo energético de um escritório utilizando Python e dados simulados.  
 A partir disso, são realizadas:
 
 - Detecção de desperdícios  
@@ -26,7 +26,7 @@ Tudo isso conectado ao **futuro do trabalho**, com foco em ambientes inteligente
 - Identificação de possíveis desperdícios noturnos
 - Simulação de cenário otimizado com automação
 - Gráfico comparativo: consumo real x consumo otimizado
-- Estimativa de implantação de energia solar (até 50% da demanda)
+- Estimativa de implantação de energia solar (até 100% da demanda)
 - Cálculo de CO₂ evitado por fontes renováveis
 - Geração de relatório final no terminal
 
@@ -37,11 +37,11 @@ Tudo isso conectado ao **futuro do trabalho**, com foco em ambientes inteligente
 - Pandas  
 - Matplotlib  
 - NumPy  
-- CSV real disponibilizado pelo aluno  
+- CSV
 
 ---
 
 ## 4. Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/SEU-REPO.git
+   git clone https://github.com/robertoflaquer/global-solution-energias-renovaveis.git
