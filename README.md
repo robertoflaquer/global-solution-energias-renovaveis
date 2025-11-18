@@ -108,7 +108,7 @@ Uma solução alinhada com os novos ambientes corporativos sustentáveis.
 ## 9. Resultados Gerais
 
 - Redução simulada de até 25% com automação
-- Capacidade solar para cobrir 50% a 100% da demanda
+- Capacidade solar para cobrir 1% a 100% da demanda
 - Economia financeira anual
 - Emissões de CO₂ evitadas
 - Identificação automática de desperdícios
